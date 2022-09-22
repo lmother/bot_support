@@ -1,0 +1,1041 @@
+05-11-2021 17:38 Error file write from ftp
+05-11-2021 17:41 Error file write from ftp
+05-11-2021 18:13 Error open path m3.snavi.ru ftp
+05-11-2021 18:20 Error open path m3.snavi.ru ftp
+05-11-2021 18:26 Error open path m3.snavi.ru ftp
+05-11-2021 18:26 Error open path 89.188.109.102 ftp
+05-11-2021 18:26 Error open path m3.snavi.ru ftp
+05-11-2021 18:26 Error open path 89.188.109.102 ftp
+05-11-2021 18:29 Error open path 89.188.109.102 ftp
+05-11-2021 18:37 Error file write from ftp m3 
+05-11-2021 18:37 Error open path m1 ftp
+05-11-2021 19:20 Error file write from ftp m3 
+05-11-2021 19:20 Error open path m1 ftp
+05-11-2021 19:22 Error file write from ftp m3 
+05-11-2021 19:22 Error open path m1 ftp
+05-11-2021 22:40 Error file write from ftp m3 
+05-11-2021 22:40 Error open path m1 ftp
+05-11-2021 22:57 Error file write from ftp m3 
+05-11-2021 22:57 Error open path m1 ftp
+05-11-2021 23:00 Error file write from ftp m3 
+05-11-2021 23:00 Error open path m1 ftp
+05-11-2021 23:13 Error file write from ftp m3 
+05-11-2021 23:13 Error file write from ftp m3 
+05-11-2021 23:13 Error open path m1 ftp
+05-11-2021 23:13 Error file write from ftp m3 
+05-11-2021 23:13 Error file write from ftp m3 
+05-11-2021 23:13 Error open path m1 ftp
+06-11-2021 14:13 Error file write from ftp m3 
+06-11-2021 14:13 Error file write from ftp m3 
+06-11-2021 14:13 Error open path m3 ftp
+06-11-2021 14:13 Error open path m1 ftp
+06-11-2021 14:20 Error file write from ftp m3 
+06-11-2021 14:20 Error file write from ftp m3 
+06-11-2021 14:20 Error open path AG5/Data/1234567 on m3 ftp
+06-11-2021 14:20 Error open path Data/1234567 on m1 ftp
+06-11-2021 15:08 Error file write from ftp m3 
+06-11-2021 15:08 Error file write from ftp m3 
+06-11-2021 15:08 Error file write from ftp m3 
+06-11-2021 15:08 Error open path Data/2218523 on m1 ftp
+06-11-2021 15:10 Error file write from ftp m3 
+06-11-2021 15:10 Error file write from ftp m3 
+06-11-2021 15:10 Error file write from ftp m3 
+06-11-2021 15:10 Error open path Data/2218523 on m1 ftp
+06-11-2021 15:13 Error file Devices.txt write from ftp m3 
+06-11-2021 15:13 Error file Logs/UnservicedList.log write from ftp m3 
+06-11-2021 15:13 Error file Logs/MismatchPasswordList.log write from ftp m3 
+06-11-2021 15:13 Error open path Data/2218523 on m1 ftp.
+06-11-2021 15:17 Error file Devices.txt write from ftp m3 
+06-11-2021 15:17 Error file Logs/UnservicedList.log write from ftp m3 
+06-11-2021 15:17 Error file Logs/MismatchPasswordList.log write from ftp m3 
+06-11-2021 15:17 Error open path Data/2218523 on m1 ftp
+06-11-2021 15:18 Error file AG/Devices.txt write from ftp m3 
+06-11-2021 15:18 Error file AG/Logs/UnservicedList.log write from ftp m3 
+06-11-2021 15:18 Error file AG/Logs/MismatchPasswordList.log write from ftp m3 
+06-11-2021 15:18 Error open path Data/2218523 on m1 ftp
+06-11-2021 15:22 Error open path Data/2218523 on m1 ftp
+06-11-2021 15:22 Error open path AG5/Data/0035019 on m3 ftp
+06-11-2021 15:22 Error open path Data/0035019 on m1 ftp
+06-11-2021 15:22 Error open path Data/2218523 on m1 ftp
+06-11-2021 15:35 Error open path AG5/Data/0035019 on m3 ftp
+06-11-2021 15:35 Error open path Data/0035019 on m1 ftp
+06-11-2021 15:37 Error open path AG5/Data/0035019 on m3 ftp
+06-11-2021 15:37 Error open path Data/0035019 on m1 ftp
+06-11-2021 16:09 Error connect to ftp m3.snavi.ru 
+06-11-2021 16:09 Error connect to ftp m3.snavi.ru 
+06-11-2021 16:09 Error connect to ftp 89.188.109.102 
+06-11-2021 16:09 Error connect to ftp m3.snavi.ru 
+06-11-2021 16:09 Error connect to ftp 89.188.109.102 
+06-11-2021 16:09 Error connect to ftp m3.snavi.ru 
+06-11-2021 16:09 Error connect to ftp 89.188.109.102 
+06-11-2021 16:09 Error connect to ftp m3.snavi.ru 
+06-11-2021 16:09 Error connect to ftp m3.snavi.ru 
+06-11-2021 16:09 Error connect to ftp 89.188.109.102 
+06-11-2021 16:09 Error connect to ftp m3.snavi.ru 
+06-11-2021 16:09 Error connect to ftp 89.188.109.102 
+06-11-2021 16:09 Error connect to ftp m3.snavi.ru 
+06-11-2021 16:09 Error connect to ftp 89.188.109.102 
+06-11-2021 16:11 Error connect to ftp m3.snavi.ru 
+06-11-2021 16:11 Error connect to ftp m3.snavi.ru 
+06-11-2021 16:11 Error connect to ftp 89.188.109.102 
+06-11-2021 16:11 Error connect to ftp m3.snavi.ru 
+06-11-2021 16:11 Error connect to ftp 89.188.109.102 
+06-11-2021 16:11 Error connect to ftp m3.snavi.ru 
+06-11-2021 16:11 Error connect to ftp 89.188.109.102 
+06-11-2021 16:13 Error open path AG5/Data/0035019 on m3 ftp
+06-11-2021 16:13 Error open path Data/0035019 on m1 ftp
+06-11-2021 16:13 Error open path AG5/Data/0035019 on m3 ftp
+06-11-2021 16:13 Error open path Data/0035019 on m1 ftp
+06-11-2021 16:17 Error open path AG5/Data/0035019 on m3 ftp
+06-11-2021 16:17 Error open path Data/0035019 on m1 ftp
+06-11-2021 16:17 Error open path Data/2308031 on m1 ftp
+06-11-2021 17:04 Error open path Data/2308031 on m1 ftp
+06-11-2021 17:04 Error open path Data/2308031 on m1 ftp
+06-11-2021 17:04 Error open path Data/2308031 on m1 ftp
+06-11-2021 17:28 Error open path Data/2308031 on m1 ftp
+06-11-2021 17:28 Error open path AG5/Data/0035019 on m3 ftp
+06-11-2021 17:28 Error open path Data/0035019 on m1 ftp
+06-11-2021 17:56 Error open path AG5/Data/0035019 on m3 ftp
+06-11-2021 17:56 Error open path Data/0035019 on m1 ftp
+06-11-2021 17:56 Error open path Data/2308031 on m1 ftp
+06-11-2021 18:01 Error open path Data/2308031 on m1 ftp
+06-11-2021 18:03 Error open path Data/2308031 on m1 ftp
+06-11-2021 18:19 Error open path Data/2308031 on m1 ftp
+06-11-2021 18:19 Error open path Data/2308031 on m1 ftp
+06-11-2021 18:26 Error open path Data/2308031 on m1 ftp
+06-11-2021 18:32 Error open path Data/2308031 on m1 ftp
+06-11-2021 18:54 Error open path Data/2308031 on m1 ftp
+07-11-2021 18:51 Error open path AG5/Data/0123456 on m3 ftp
+07-11-2021 18:51 Error open path Data/0123456 on m1 ftp
+07-11-2021 18:51 Error open path AG5/Data/1111111 on m3 ftp
+07-11-2021 18:51 Error open path Data/1111111 on m1 ftp
+07-11-2021 19:02 Error open path AG5/Data/2211201 on m3 ftp
+07-11-2021 19:02 Error open path Data/2211201 on m1 ftp
+07-11-2021 19:02 Error open path AG5/Data/2215708 on m3 ftp
+07-11-2021 19:02 Error open path Data/2215708 on m1 ftp
+07-11-2021 19:02 Error open path Data/2215780 on m1 ftp
+07-11-2021 19:02 Error open path Data/2215780 on m1 ftp
+07-11-2021 22:35 Error open path Data/2215780 on m1 ftp
+07-11-2021 22:38 Error open path Data/2215780 on m1 ftp
+07-11-2021 22:38 Error open path Data/2221566 on m1 ftp
+07-11-2021 22:41 Error open path Data/2221566 on m1 ftp
+07-11-2021 23:20 Error open path AG5/ on m3 ftp
+07-11-2021 23:20 Error open path  on m1 ftp
+07-11-2021 23:20 Error open path AG5/ on m3 ftp
+07-11-2021 23:20 Error open path  on m1 ftp
+07-11-2021 23:20 Error open path AG5/ on m3 ftp
+07-11-2021 23:20 Error open path  on m1 ftp
+07-11-2021 23:22 Error open path AG5/ on m3 ftp
+07-11-2021 23:22 Error open path  on m1 ftp
+07-11-2021 23:26 Error open path AG5/ on m3 ftp
+07-11-2021 23:26 Error open path  on m1 ftp
+07-11-2021 23:28 Error open path AG5/Data/0041785 on m3 ftp
+07-11-2021 23:28 Error open path Data/0041785 on m1 ftp
+07-11-2021 23:28 Error open path Data/9045927 on m1 ftp
+07-11-2021 23:28 Error open path Data/9045927 on m1 ftp
+07-11-2021 23:41 Error open path Data/9045927 on m1 ftp
+08-11-2021 18:18 Error open path Data/2215780 on m1 ftp
+08-11-2021 18:18 Error open path AG5/Data/0000000 on m3 ftp
+08-11-2021 18:18 Error open path AG5/Data/1111111 on m3 ftp
+08-11-2021 18:18 Error open path Data/1111111 on m1 ftp
+08-11-2021 18:18 Error open path Data/2215780 on m1 ftp
+08-11-2021 18:18 Error open path Data/2215790 on m1 ftp
+08-11-2021 18:18 Error open path AG5/Data/0180170 on m3 ftp
+08-11-2021 18:18 Error open path Data/0180170 on m1 ftp
+08-11-2021 18:18 Error open path AG5/Data/0034567 on m3 ftp
+08-11-2021 18:18 Error open path Data/0034567 on m1 ftp
+08-11-2021 18:18 Error open path Data/2215780 on m1 ftp
+08-11-2021 18:18 Error open path AG5/Data/0069142 on m3 ftp
+08-11-2021 18:18 Error open path Data/0069142 on m1 ftp
+08-11-2021 18:18 Error open path AG5/Data/0069142 on m3 ftp
+08-11-2021 18:18 Error open path Data/0069142 on m1 ftp
+09-11-2021 22:32 Error open path AG5/Data/0069142 on m3 ftp
+09-11-2021 22:32 Error open path Data/0069142 on m1 ftp
+09-11-2021 22:32 Error open path AG5/Data/0069142 on m3 ftp
+09-11-2021 22:32 Error open path Data/0069142 on m1 ftp
+09-11-2021 22:32 Error open path AG5/Data/0069142 on m3 ftp
+09-11-2021 22:32 Error open path Data/0069142 on m1 ftp
+09-11-2021 22:32 Error open path Data/2215780 on m1 ftp
+09-11-2021 22:32 Error open path AG5/Data/9011753 on m3 ftp
+09-11-2021 22:32 Error open path Data/9011753 on m1 ftp
+09-11-2021 22:32 Error open path AG5/Data/9011753 on m3 ftp
+09-11-2021 22:32 Error open path Data/9011753 on m1 ftp
+09-11-2021 22:32 Error open path Data/9011753 on m1 ftp
+11-11-2021 17:52 Error open path AG5/Data/1111111 on m3 ftp
+11-11-2021 17:52 Error open path Data/1111111 on m1 ftp
+11-11-2021 18:17 Error open path AG5/Data/1111111 on m3 ftp
+11-11-2021 18:17 Error open path Data/1111111 on m1 ftp
+11-11-2021 18:41 Error open path AG5/Data/0011408 on m3 ftp
+11-11-2021 18:41 Error open path Data/0011408 on m1 ftp
+11-11-2021 19:59 Error open path AG5/Data/0065069 on m3 ftp
+11-11-2021 19:59 Error open path AG5/Data/0065069 on m3 ftp
+11-11-2021 19:59 Error open path AG5/Data/0065069 on m3 ftp
+11-11-2021 19:59 Error open path AG5/Data/0065069 on m3 ftp
+11-11-2021 19:59 Error open path AG5/Data/0116839 on m3 ftp
+12-11-2021 09:03 Error open path AG5/Data/0116839 on m3 ftp
+12-11-2021 09:06 Error open path AG5/Data/0116839 on m3 ftp
+12-11-2021 09:08 Error open path AG5/Data/0116839 on m3 ftp
+12-11-2021 09:10 Error open path AG5/Data/0116839 on m3 ftp
+12-11-2021 09:12 Error open path AG5/Data/0116839 on m3 ftp
+12-11-2021 09:16 Error open path AG5/Data/0065069 on m3 ftp
+12-11-2021 09:16 Error open path Data/0065069 on m1 ftp
+12-11-2021 09:16 Error open path Data/9011753 on m1 ftp
+12-11-2021 09:16 Error open path Data/2221962 on m1 ftp
+12-11-2021 09:16 Error open path Data/2221962 on m1 ftp
+12-11-2021 09:16 Error open path AG5/Data/0000000 on m3 ftp
+12-11-2021 09:16 Error open path AG5/Data/1234567 on m3 ftp
+12-11-2021 09:16 Error open path Data/1234567 on m1 ftp
+12-11-2021 09:16 Error open path AG5/Data/2202752 on m3 ftp
+12-11-2021 09:16 Error open path Data/2202752 on m1 ftp
+15-11-2021 17:31 Error open path AG5/Data/2202752 on m3 ftp
+15-11-2021 17:31 Error open path Data/2202752 on m1 ftp
+15-11-2021 17:31 Error open path AG5/Data/2202752 on m3 ftp
+15-11-2021 17:31 Error open path Data/2202752 on m1 ftp
+15-11-2021 17:46 Error open path AG5/Data/2202752 on m3 ftp
+15-11-2021 17:46 Error open path Data/2202752 on m1 ftp
+15-11-2021 17:47 Error open path AG5/Data/1111111 on m3 ftp
+15-11-2021 17:47 Error open path Data/1111111 on m1 ftp
+16-11-2021 12:37 Error open path Data/9011753 on m1 ftp
+16-11-2021 12:38 Error open path Data/2215780 on m1 ftp
+16-11-2021 18:16 Error open path AG5/Data/1111111 on m3 ftp
+16-11-2021 18:16 Error open path Data/1111111 on m1 ftp
+16-11-2021 18:17 Error open path AG5/Data/1111111 on m3 ftp
+16-11-2021 18:17 Error open path Data/1111111 on m1 ftp
+16-11-2021 18:20 Error open path AG5/Data/1111111 on m3 ftp
+16-11-2021 18:20 Error open path Data/1111111 on m1 ftp
+16-11-2021 19:32 Error open path AG5/Data/1234567 on m3 ftp
+16-11-2021 19:32 Error open path Data/1234567 on m1 ftp
+16-11-2021 19:38 Error open path AG5/Data/1111111 on m3 ftp
+16-11-2021 19:38 Error open path Data/1111111 on m1 ftp
+16-11-2021 19:39 Error open path AG5/Data/1111111 on m3 ftp
+16-11-2021 19:39 Error open path Data/1111111 on m1 ftp
+16-11-2021 22:10 Error open path AG5/Data/1111111 on m3 ftp
+16-11-2021 22:10 Error open path Data/1111111 on m1 ftp
+17-11-2021 09:16 Error open path AG5/Data/1111111 on m3 ftp
+17-11-2021 09:16 Error open path Data/1111111 on m1 ftp
+17-11-2021 14:11 Error open path AG5/Data/2221289 on m3 ftp
+17-11-2021 14:11 Error open path Data/2221289 on m1 ftp
+17-11-2021 14:14 Error open path AG5/Data/2221289 on m3 ftp
+17-11-2021 14:14 Error open path Data/2221289 on m1 ftp
+18-11-2021 09:48 Error open path AG5/Data/2221289 on m3 ftp
+18-11-2021 09:48 Error open path Data/2221289 on m1 ftp
+18-11-2021 09:50 Error open path AG5/Data/2221289 on m3 ftp
+18-11-2021 09:50 Error open path Data/2221289 on m1 ftp
+18-11-2021 09:58 Error open path AG5/Data/2221289 on m3 ftp
+18-11-2021 09:59 Error open path Data/2221289 on m1 ftp
+18-11-2021 10:01 Error open path AG5/Data/2221289 on m3 ftp
+18-11-2021 10:01 Error open path Data/2221289 on m1 ftp
+18-11-2021 10:04 Error open path AG5/Data/2221289 on m3 ftp
+18-11-2021 10:04 Error open path Data/2221289 on m1 ftp
+18-11-2021 10:05 Error open path AG5/Data/2221289 on m3 ftp
+18-11-2021 10:05 Error open path Data/2221289 on m1 ftp
+18-11-2021 10:11 Error open path Data/2221289 on m1 ftp
+18-11-2021 15:29 Error open path AG5/Data/2222153 on m3 ftp
+18-11-2021 15:30 Error open path Data/2222153 on m1 ftp
+18-11-2021 15:35 Error open path AG5/Data/2222153 on m3 ftp
+18-11-2021 15:35 Error open path Data/2222153 on m1 ftp
+18-11-2021 15:40 Error open path AG5/Data/2222567 on m3 ftp
+18-11-2021 15:40 Error open path Data/2222567 on m1 ftp
+18-11-2021 15:41 Error open path AG5/Data/2222153 on m3 ftp
+18-11-2021 15:41 Error open path Data/2222153 on m1 ftp
+18-11-2021 16:15 Error open path AG5/Data/2222153 on m3 ftp
+18-11-2021 16:15 Error open path Data/2222153 on m1 ftp
+18-11-2021 16:19 Error open path AG5/Data/2222153 on m3 ftp
+18-11-2021 16:19 Error open path Data/2222153 on m1 ftp
+19-11-2021 17:43 Error open path AG5/Data/2222153 on m3 ftp
+19-11-2021 17:43 Error open path Data/2222153 on m1 ftp
+19-11-2021 21:57 Error open path Data/2221289 on m1 ftp
+19-11-2021 21:58 Error open path AG5/Data/2222222 on m3 ftp
+19-11-2021 21:58 Error open path Data/2222222 on m1 ftp
+19-11-2021 22:03 Error open path AG5/Data/2222153 on m3 ftp
+19-11-2021 22:03 Error open path Data/2222153 on m1 ftp
+19-11-2021 22:12 Error open path AG5/Data/2222153 on m3 ftp
+19-11-2021 22:12 Error open path Data/2222153 on m1 ftp
+19-11-2021 22:18 Error open path AG5/Data/2222153 on m3 ftp
+19-11-2021 22:18 Error open path Data/2222153 on m1 ftp
+19-11-2021 22:20 Error open path AG5/Data/2222153 on m3 ftp
+19-11-2021 22:20 Error open path Data/2222153 on m1 ftp
+19-11-2021 22:21 Error open path AG5/Data/2222154 on m3 ftp
+19-11-2021 22:21 Error open path Data/2222154 on m1 ftp
+19-11-2021 22:21 Error open path Data/2222152 on m1 ftp
+19-11-2021 22:21 Error open path Data/2222151 on m1 ftp
+19-11-2021 22:25 Error open path Data/2222151 on m1 ftp
+19-11-2021 22:27 Error open path Data/2222151 on m1 ftp
+20-11-2021 23:49 Error open path Data/2222151 on m1 ftp
+20-11-2021 23:51 Error open path Data/2222151 on m1 ftp
+20-11-2021 23:52 Error open path Data/2222151 on m1 ftp
+20-11-2021 23:55 Error open path Data/2222151 on m1 ftp
+20-11-2021 23:57 Error open path Data/2222151 on m1 ftp
+20-11-2021 23:58 Error open path AG5/Data/2222222 on m3 ftp
+20-11-2021 23:58 Error open path Data/2222222 on m1 ftp
+21-11-2021 00:01 Error open path Data/2222151 on m1 ftp
+21-11-2021 00:04 Error open path Data/2222151 on m1 ftp
+22-11-2021 13:20 Error open path Data/2222153 on m1 ftp
+22-11-2021 16:32 Error open path AG5/Data/1111111 on m3 ftp
+22-11-2021 16:32 Error open path Data/1111111 on m1 ftp
+22-11-2021 19:28 Error open path AG5/Data/0000000 on m3 ftp
+22-11-2021 19:39 Error open path Data/2221289 on m1 ftp
+22-11-2021 22:37 Error open path Data/1463623 on m1 ftp
+23-11-2021 14:02 Error open path Data/2136405 on m1 ftp
+24-11-2021 13:22 Error open path AG5/Data/0017703 on m3 ftp
+24-11-2021 13:56 Error open path AG5/Data/0044848 on m3 ftp
+24-11-2021 15:26 Error open path AG5/Data/0017610 on m3 ftp
+24-11-2021 15:26 Error open path Data/0017610 on m1 ftp
+24-11-2021 15:27 Error open path AG5/Data/0017610 on m3 ftp
+24-11-2021 15:27 Error open path Data/0017610 on m1 ftp
+24-11-2021 15:35 Error open path AG5/Data/0017610 on m3 ftp
+24-11-2021 15:35 Error open path Data/0017610 on m1 ftp
+24-11-2021 15:35 Error open path AG5/Data/0017610 on m3 ftp
+24-11-2021 15:35 Error open path Data/0017610 on m1 ftp
+24-11-2021 15:40 Error open path AG5/Data/0017610 on m3 ftp
+24-11-2021 15:40 Error open path Data/0017610 on m1 ftp
+24-11-2021 15:56 Error open path AG5/Data/0017702 on m3 ftp
+24-11-2021 16:09 Error open path AG5/Data/0026118 on m3 ftp
+24-11-2021 16:09 Error open path Data/0026118 on m1 ftp
+24-11-2021 16:13 Error open path AG5/Data/0026118 on m3 ftp
+24-11-2021 16:42 Error open path AG5/Data/0026118 on m3 ftp
+24-11-2021 17:54 Error open path AG5/Data/0017750 on m3 ftp
+24-11-2021 17:54 Error open path Data/0017750 on m1 ftp
+24-11-2021 17:56 Error open path AG5/Data/0017750 on m3 ftp
+25-11-2021 14:24 Error open path AG5/Data/0434681 on m3 ftp
+25-11-2021 14:24 Error open path Data/0434681 on m1 ftp
+27-11-2021 20:53 Error open path AG5/Data/0017750 on m3 ftp
+28-11-2021 11:16 Error open path AG5/Data/0000000 on m3 ftp
+28-11-2021 11:17 Error open path AG5/Data/2222222 on m3 ftp
+28-11-2021 11:17 Error open path Data/2222222 on m1 ftp
+30-11-2021 11:30 Error open path Data/2218529 on m1 ftp
+30-11-2021 11:39 Error open path Data/2218529 on m1 ftp
+30-11-2021 11:50 Error open path AG5/Data/2210806 on m3 ftp
+30-11-2021 11:50 Error open path Data/2210806 on m1 ftp
+30-11-2021 11:50 Error open path Data/2212806 on m1 ftp
+02-12-2021 13:53 Error open path AG5/Data/2221294 on m3 ftp
+02-12-2021 13:53 Error open path Data/2221294 on m1 ftp
+02-12-2021 14:06 Error open path Data/0434681 on m1 ftp
+02-12-2021 15:13 Error open path Data/0465312 on m1 ftp
+03-12-2021 15:25 Error open path AG5/Data/0465813 on m3 ftp
+03-12-2021 15:25 Error open path Data/0465813 on m1 ftp
+04-12-2021 12:52 Error open path Data/0465313 on m1 ftp
+05-12-2021 16:11 Error open path Data/0465308 on m1 ftp
+06-12-2021 11:11 Error open path Data/2214304 on m1 ftp
+06-12-2021 14:56 Error open path Data/2144114 on m1 ftp
+13-12-2021 10:49 Error open path AG5/Data/2222217 on m3 ftp
+13-12-2021 10:49 Error open path Data/2222217 on m1 ftp
+13-12-2021 10:50 Error open path AG5/Data/2222217 on m3 ftp
+13-12-2021 10:50 Error open path Data/2222217 on m1 ftp
+13-12-2021 10:51 Error open path AG5/Data/2222217 on m3 ftp
+13-12-2021 10:51 Error open path Data/2222217 on m1 ftp
+13-12-2021 12:05 Error open path Data/2222217 on m1 ftp
+14-12-2021 06:29 Error open path AG5/Data/0000000 on m3 ftp
+14-12-2021 06:29 Error open path Data/0000000 on m1 ftp
+14-12-2021 11:28 Error open path AG5/Data/1500794 on m3 ftp
+14-12-2021 11:28 Error open path Data/1500794 on m1 ftp
+14-12-2021 20:19 Error open path AG5/Data/1500794 on m3 ftp
+14-12-2021 20:19 Error open path Data/1500794 on m1 ftp
+15-12-2021 07:07 Error open path AG5/Data/1500794 on m3 ftp
+15-12-2021 07:07 Error open path Data/1500794 on m1 ftp
+15-12-2021 13:12 Error open path Data/2144120 on m1 ftp
+16-12-2021 14:35 Error open path AG5/Data/2041340 on m3 ftp
+16-12-2021 14:35 Error open path Data/2041340 on m1 ftp
+16-12-2021 14:35 Error open path AG5/Data/0162730 on m3 ftp
+16-12-2021 14:35 Error open path Data/0162730 on m1 ftp
+16-12-2021 14:35 Error open path AG5/Data/1203086 on m3 ftp
+16-12-2021 14:35 Error open path Data/1203086 on m1 ftp
+16-12-2021 14:36 Error open path AG5/Data/0150439 on m3 ftp
+16-12-2021 14:36 Error open path Data/0150439 on m1 ftp
+16-12-2021 14:36 Error open path AG5/Data/0150449 on m3 ftp
+16-12-2021 14:36 Error open path Data/0150449 on m1 ftp
+16-12-2021 14:36 Error open path AG5/Data/0150469 on m3 ftp
+16-12-2021 14:36 Error open path Data/0150469 on m1 ftp
+16-12-2021 14:36 Error open path AG5/Data/0150459 on m3 ftp
+16-12-2021 14:36 Error open path Data/0150459 on m1 ftp
+16-12-2021 14:36 Error open path AG5/Data/0142772 on m3 ftp
+16-12-2021 14:36 Error open path Data/0142772 on m1 ftp
+16-12-2021 14:36 Error open path AG5/Data/0184465 on m3 ftp
+16-12-2021 14:37 Error open path Data/0184465 on m1 ftp
+16-12-2021 14:37 Error open path AG5/Data/0178642 on m3 ftp
+16-12-2021 14:37 Error open path Data/0178642 on m1 ftp
+16-12-2021 14:37 Error open path AG5/Data/0142775 on m3 ftp
+16-12-2021 14:37 Error open path Data/0142775 on m1 ftp
+16-12-2021 14:38 Error open path AG5/Data/0150465 on m3 ftp
+16-12-2021 14:38 Error open path Data/0150465 on m1 ftp
+16-12-2021 14:38 Error open path AG5/Data/0142761 on m3 ftp
+16-12-2021 14:38 Error open path Data/0142761 on m1 ftp
+16-12-2021 14:38 Error open path AG5/Data/0142761 on m3 ftp
+16-12-2021 14:38 Error open path Data/0142761 on m1 ftp
+16-12-2021 14:38 Error open path AG5/Data/0150450 on m3 ftp
+16-12-2021 14:38 Error open path Data/0150450 on m1 ftp
+16-12-2021 14:38 Error open path AG5/Data/0150466 on m3 ftp
+16-12-2021 14:38 Error open path Data/0150466 on m1 ftp
+16-12-2021 15:42 Error open path Data/0124187 on m1 ftp
+16-12-2021 16:17 Error open path AG5/Data/0146079 on m3 ftp
+16-12-2021 16:18 Error open path AG5/Data/0146079 on m3 ftp
+16-12-2021 16:20 Error open path AG5/Data/0146079 on m3 ftp
+16-12-2021 16:27 Error open path AG5/Data/0146079 on m3 ftp
+16-12-2021 16:32 Error open path AG5/Data/0105939 on m3 ftp
+16-12-2021 17:36 Error open path AG5/Data/0115337 on m3 ftp
+16-12-2021 17:36 Error open path Data/0115337 on m1 ftp
+16-12-2021 17:44 Error open path AG5/Data/0115337 on m3 ftp
+16-12-2021 17:44 Error open path Data/0115337 on m1 ftp
+16-12-2021 17:46 Error open path AG5/Data/0115337 on m3 ftp
+16-12-2021 17:46 Error open path Data/0115337 on m1 ftp
+16-12-2021 17:47 Error open path AG5/Data/0115337 on m3 ftp
+17-12-2021 12:05 Error open path AG5/Data/2144116 on m3 ftp
+17-12-2021 12:05 Error open path Data/2144116 on m1 ftp
+19-12-2021 16:29 Error open path AG5/Data/0000000 on m3 ftp
+19-12-2021 23:34 Error open path AG5/Data/0000000 on m3 ftp
+20-12-2021 00:02 Error open path AG5/Data/0000000 on m3 ftp
+20-12-2021 16:57 Error open path AG5/Data/0000000 on m3 ftp
+23-12-2021 22:53 Error open path Data/2308317 on m1 ftp
+03-01-2022 13:34 Error open path AG5/Data/0000000 on m3 ftp
+10-01-2022 13:52 Error open path Data/2144123 on m1 ftp
+10-01-2022 13:55 Error open path Data/2144123 on m1 ftp
+16-01-2022 14:15 Error open path AG5/Data/0000000 on m3 ftp
+21-01-2022 15:50 Error open path AG5/Data/2222216 on m3 ftp
+21-01-2022 15:50 Error open path Data/2222216 on m1 ftp
+21-01-2022 15:51 Error open path AG5/Data/2222224 on m3 ftp
+21-01-2022 15:51 Error open path Data/2222224 on m1 ftp
+21-01-2022 18:54 Error open path AG5/Data/2222216 on m3 ftp
+21-01-2022 18:54 Error open path Data/2222216 on m1 ftp
+24-01-2022 11:40 Error open path Data/2144569 on m1 ftp
+24-01-2022 11:42 Error open path Data/2144569 on m1 ftp
+27-01-2022 10:53 Error open path AG5/Data/2147847 on m3 ftp
+27-01-2022 10:53 Error open path Data/2147847 on m1 ftp
+27-01-2022 19:13 Error open path Data/2147824 on m1 ftp
+27-01-2022 22:08 Error open path Data/2147846 on m1 ftp
+27-01-2022 22:16 Error open path Data/2147846 on m1 ftp
+28-01-2022 15:37 Error open path Data/2147837 on m1 ftp
+02-02-2022 11:20 Error open path Data/2221799 on m1 ftp
+04-02-2022 09:57 Error open path AG5/Data/2144584 on m3 ftp
+04-02-2022 09:57 Error open path Data/2144584 on m1 ftp
+04-02-2022 09:57 Error open path AG5/Data/2147825 on m3 ftp
+04-02-2022 09:57 Error open path Data/2147825 on m1 ftp
+04-02-2022 11:00 Error open path AG5/Data/2147825 on m3 ftp
+04-02-2022 11:00 Error open path Data/2147825 on m1 ftp
+04-02-2022 12:08 Error open path Data/2147825 on m1 ftp
+07-02-2022 11:28 Error open path AG5/Data/2222773 on m3 ftp
+07-02-2022 11:28 Error open path Data/2222773 on m1 ftp
+07-02-2022 11:36 Error open path AG5/Data/2222773 on m3 ftp
+07-02-2022 11:36 Error open path Data/2222773 on m1 ftp
+08-02-2022 22:51 Error open path Data/2222773 on m1 ftp
+08-02-2022 22:52 Error open path Data/2222773 on m1 ftp
+09-02-2022 23:08 Error open path Data/2222773 on m1 ftp
+14-02-2022 11:51 Error open path AG5/Data/0259129 on m3 ftp
+14-02-2022 11:51 Error open path Data/0259129 on m1 ftp
+14-02-2022 11:51 Error open path AG5/Data/0259129 on m3 ftp
+14-02-2022 11:51 Error open path Data/0259129 on m1 ftp
+14-02-2022 11:52 Error open path AG5/Data/0259129 on m3 ftp
+14-02-2022 11:52 Error open path Data/0259129 on m1 ftp
+14-02-2022 12:07 Error open path AG5/Data/0259129 on m3 ftp
+14-02-2022 12:07 Error open path Data/0259129 on m1 ftp
+14-02-2022 12:08 Error open path AG5/Data/0259129 on m3 ftp
+14-02-2022 12:34 Error open path AG5/Data/0259129 on m3 ftp
+14-02-2022 12:34 Error open path AG5/Data/0240183 on m3 ftp
+16-02-2022 10:05 Error open path AG5/Data/2221961 on m3 ftp
+16-02-2022 10:05 Error open path Data/2221961 on m1 ftp
+16-02-2022 13:05 Error open path AG5/Data/2222776 on m3 ftp
+16-02-2022 13:05 Error open path Data/2222776 on m1 ftp
+16-02-2022 16:12 Error open path AG5/Data/0279803 on m3 ftp
+16-02-2022 16:12 Error open path Data/0279803 on m1 ftp
+16-02-2022 18:51 Error open path Data/2221799 on m1 ftp
+18-02-2022 13:21 Error open path AG5/Data/2119316 on m3 ftp
+18-02-2022 13:21 Error open path Data/2119316 on m1 ftp
+18-02-2022 22:20 Error open path AG5/Data/0000000 on m3
+19-02-2022 12:02 Error open path Data/2147838 on m1
+22-02-2022 16:20 Error open path Data/2222782 on m1
+22-02-2022 16:22 Error open path Data/2222782 on m1
+23-02-2022 12:09 Error open path AG5/Data/9051025 on m3
+23-02-2022 12:09 Error open path Data/9051025 on m1
+23-02-2022 12:27 Error open path AG5/Data/9051025 on m3
+23-02-2022 12:27 Error open path Data/9051025 on m1
+23-02-2022 12:27 Error open path AG5/Data/9051025 on m3
+23-02-2022 12:27 Error open path Data/9051025 on m1
+23-02-2022 12:27 Error open path AG5/Data/9051025 on m3
+23-02-2022 12:27 Error open path Data/9051025 on m1
+23-02-2022 12:28 Error open path AG5/Data/9051025 on m3
+23-02-2022 12:28 Error open path Data/9051025 on m1
+23-02-2022 12:41 Error open path AG5/Data/9051025 on m3
+23-02-2022 12:41 Error open path Data/9051025 on m1
+01-03-2022 12:45 Error open path AG5/Data/1477527 on m3
+01-03-2022 12:45 Error open path Data/1477527 on m1
+01-03-2022 12:54 Error open path AG5/Data/1477527 on m3
+01-03-2022 12:54 Error open path Data/1477527 on m1
+01-03-2022 13:24 Error open path AG5/Data/1477527 on m3
+01-03-2022 13:24 Error open path Data/1477527 on m1
+01-03-2022 13:38 Error open path Data/1477527 on m1
+01-03-2022 13:45 Error open path Data/1477572 on m1
+01-03-2022 16:16 Error open path AG5/Data/1477545 on m3
+01-03-2022 16:16 Error open path Data/1477545 on m1
+01-03-2022 16:17 Error open path AG5/Data/1477545 on m3
+01-03-2022 16:17 Error open path Data/1477545 on m1
+01-03-2022 16:17 Error open path AG5/Data/1477545 on m3
+01-03-2022 16:17 Error open path Data/1477545 on m1
+01-03-2022 16:17 Error open path AG5/Data/1477545 on m3
+01-03-2022 16:17 Error open path Data/1477545 on m1
+01-03-2022 16:17 Error open path AG5/Data/1477545 on m3
+01-03-2022 16:17 Error open path Data/1477545 on m1
+01-03-2022 16:17 Error open path AG5/Data/1477545 on m3
+01-03-2022 16:17 Error open path Data/1477545 on m1
+01-03-2022 16:19 Error open path Data/1477545 on m1
+02-03-2022 13:16 Error open path Data/1477526 on m1
+02-03-2022 17:43 Error open path AG5/Data/1477539 on m3
+02-03-2022 17:43 Error open path Data/1477539 on m1
+02-03-2022 17:47 Error open path Data/1477539 on m1
+04-03-2022 14:20 Error open path AG5/Data/2148723 on m3
+04-03-2022 14:20 Error open path Data/2148723 on m1
+09-03-2022 16:55 Error open path Data/2139378 on m1
+14-03-2022 11:22 Error open path AG5/Data/2148724 on m3
+14-03-2022 11:22 Error open path Data/2148724 on m1
+14-03-2022 20:06 Error open path Data/1477565 on m1
+15-03-2022 15:37 Error open path AG5/Data/1477557 on m3
+15-03-2022 15:37 Error open path Data/1477557 on m1
+15-03-2022 15:37 Error open path AG5/Data/1477557 on m3
+15-03-2022 15:37 Error open path Data/1477557 on m1
+15-03-2022 15:37 Error open path AG5/Data/1477557 on m3
+15-03-2022 15:37 Error open path Data/1477557 on m1
+15-03-2022 15:37 Error open path AG5/Data/1477557 on m3
+15-03-2022 15:37 Error open path Data/1477557 on m1
+15-03-2022 15:37 Error open path AG5/Data/1477557 on m3
+15-03-2022 15:37 Error open path Data/1477557 on m1
+15-03-2022 15:45 Error open path Data/1477557 on m1
+15-03-2022 17:03 Error open path Data/1477541 on m1
+17-03-2022 14:20 Error open path AG5/Data/1477555 on m3
+17-03-2022 14:20 Error open path Data/1477555 on m1
+17-03-2022 14:21 Error open path Data/1477555 on m1
+17-03-2022 14:21 Error open path Data/1477555 on m1
+17-03-2022 14:21 Error open path Data/1477555 on m1
+18-03-2022 12:44 Error open path Data/1477532 on m1
+18-03-2022 13:34 Error open path Data/1477538 on m1
+18-03-2022 22:39 Error open path Data/1477538 on m1
+21-03-2022 14:29 Error open path AG5/Data/2147835 on m3
+21-03-2022 14:29 Error open path Data/2147835 on m1
+22-03-2022 15:16 Error open path AG5/Data/0232422 on m3
+22-03-2022 15:16 Error open path Data/0232422 on m1
+22-03-2022 15:18 Error open path AG5/Data/0232422 on m3
+22-03-2022 15:18 Error open path Data/0232422 on m1
+22-03-2022 15:27 Error open path Data/0232422 on m1
+23-03-2022 16:42 Error open path AG5/Data/0408696 on m3
+23-03-2022 16:42 Error open path Data/0408696 on m1
+23-03-2022 16:45 Error open path AG5/Data/0408696 on m3
+23-03-2022 16:45 Error open path Data/0408696 on m1
+23-03-2022 17:06 Error open path AG5/Data/0408696 on m3
+23-03-2022 17:06 Error open path Data/0408696 on m1
+23-03-2022 17:15 Error open path Data/0408696 on m1
+29-03-2022 14:35 Error open path AG5/Data/2150848 on m3
+29-03-2022 14:35 Error open path Data/2150848 on m1
+05-04-2022 22:49 Error open path Data/2223552 on m1
+05-04-2022 22:50 Error open path AG5/Data/2223548 on m3
+05-04-2022 22:50 Error open path Data/2223548 on m1
+05-04-2022 22:50 Error open path Data/2223550 on m1
+05-04-2022 22:52 Error open path Data/2223549 on m1
+05-04-2022 22:52 Error open path Data/2223548 on m1
+05-04-2022 23:00 Error open path Data/2223549 on m1
+06-04-2022 12:33 Error open path AG5/Data/2223551 on m3
+06-04-2022 12:33 Error open path Data/2223551 on m1
+11-04-2022 11:34 Error connect to ftp 89.188.109.102
+11-04-2022 11:45 Error open path AG5/Data/2223581 on m3
+11-04-2022 11:45 Error open path Data/2223581 on m1
+11-04-2022 11:50 Error open path AG5/Data/2223581 on m3
+11-04-2022 11:50 Error open path Data/2223581 on m1
+11-04-2022 11:50 Error open path Data/2223551 on m1
+11-04-2022 11:51 Error open path Data/2223551 on m1
+11-04-2022 14:39 Error open path AG5/Data/0043007 on m3
+18-04-2022 10:50 Error open path Data/2223551 on m1
+18-04-2022 10:57 Error open path AG5/Data/2223458 on m3
+18-04-2022 10:57 Error open path Data/2223458 on m1
+18-04-2022 10:59 Error open path AG5/Data/2223458 on m3
+18-04-2022 10:59 Error open path Data/2223458 on m1
+18-04-2022 10:59 Error open path AG5/Data/2223458 on m3
+18-04-2022 10:59 Error open path Data/2223458 on m1
+18-04-2022 11:02 Error open path Data/2223458 on m1
+19-04-2022 11:23 Error open path AG5/Data/2223545 on m3
+19-04-2022 11:23 Error open path Data/2223545 on m1
+26-04-2022 10:50 Error open path AG5/Data/2150846 on m3
+26-04-2022 10:50 Error open path Data/2150846 on m1
+27-04-2022 12:22 Error open path Data/2150846 on m1
+27-04-2022 12:32 Error open path Data/2150846 on m1
+27-04-2022 12:32 Error open path Data/2150850 on m1
+06-05-2022 09:08 Error open path Data/2152488 on m1
+09-05-2022 20:27 Error open path Data/2152488 on m1
+09-05-2022 23:19 Error open path Data/2152488 on m1
+09-05-2022 23:20 Error open path Data/2152488 on m1
+09-05-2022 23:37 Error open path Data/2152488 on m1
+10-05-2022 00:25 Error open path Data/2152488 on m1
+11-05-2022 19:10 Error open path Data/2221294 on m1
+17-05-2022 11:49 Error open path AG5/Data/2223952 on m3
+17-05-2022 11:49 Error open path Data/2223952 on m1
+17-05-2022 11:52 Error open path AG5/Data/2223952 on m3
+17-05-2022 11:52 Error open path Data/2223952 on m1
+17-05-2022 11:57 Error open path AG5/Data/2223952 on m3
+17-05-2022 11:57 Error open path Data/2223952 on m1
+17-05-2022 11:59 Error open path AG5/Data/2223952 on m3
+17-05-2022 11:59 Error open path Data/2223952 on m1
+17-05-2022 12:07 Error open path AG5/Data/2223952 on m3
+17-05-2022 12:07 Error open path Data/2223952 on m1
+17-05-2022 12:08 Error open path AG5/Data/2223952 on m3
+17-05-2022 12:08 Error open path Data/2223952 on m1
+17-05-2022 12:12 Error open path AG5/Data/2223952 on m3
+17-05-2022 12:12 Error open path Data/2223952 on m1
+17-05-2022 12:13 Error open path AG5/Data/2223952 on m3
+17-05-2022 12:13 Error open path Data/2223952 on m1
+17-05-2022 12:29 Error open path AG5/Data/2223952 on m3
+17-05-2022 12:29 Error open path Data/2223952 on m1
+17-05-2022 12:33 Error open path AG5/Data/2223952 on m3
+17-05-2022 12:33 Error open path Data/2223952 on m1
+17-05-2022 12:35 Error open path AG5/Data/2223952 on m3
+17-05-2022 12:35 Error open path Data/2223952 on m1
+17-05-2022 13:09 Error open path Data/2223952 on m1
+17-05-2022 13:36 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:36 Error open path Data/1266571 on m1
+17-05-2022 13:37 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:37 Error open path Data/1266571 on m1
+17-05-2022 13:46 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:49 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:50 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:50 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:53 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:54 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:54 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:54 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:54 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:54 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:54 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:54 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:54 Error open path AG5/Data/1266571 on m3
+17-05-2022 13:59 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:03 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:06 Error open path AG5/Data/1281512 on m3
+17-05-2022 14:14 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:14 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:14 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:15 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:15 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:15 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:15 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:15 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:15 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:15 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:15 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:15 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:15 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:16 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:16 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:16 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:16 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:16 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:16 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:16 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:16 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:16 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:16 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:17 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:17 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:17 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:17 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:17 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:17 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:17 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:17 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:18 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:18 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:18 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:18 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:18 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:18 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:18 Error open path AG5/Data/1266571 on m3
+17-05-2022 14:32 Error open path AG5/Data/1266571 on m3
+17-05-2022 15:44 Error open path AG5/Data/1324173 on m3
+17-05-2022 15:46 Error open path AG5/Data/1324173 on m3
+17-05-2022 15:46 Error open path AG5/Data/1324173 on m3
+17-05-2022 15:46 Error open path AG5/Data/1324173 on m3
+17-05-2022 15:47 Error open path AG5/Data/1324173 on m3
+17-05-2022 15:49 Error open path AG5/Data/1324173 on m3
+17-05-2022 15:49 Error open path AG5/Data/1324173 on m3
+17-05-2022 15:49 Error open path AG5/Data/1324173 on m3
+17-05-2022 15:52 Error open path AG5/Data/1324173 on m3
+17-05-2022 15:52 Error open path AG5/Data/1281527 on m3
+17-05-2022 16:00 Error open path AG5/Data/1324173 on m3
+17-05-2022 16:00 Error open path AG5/Data/1281527 on m3
+17-05-2022 16:18 Error open path AG5/Data/1281528 on m3
+17-05-2022 16:38 Error open path AG5/Data/1281527 on m3
+17-05-2022 16:38 Error open path AG5/Data/1281528 on m3
+17-05-2022 17:14 Error open path AG5/Data/1281528 on m3
+17-05-2022 18:03 Error open path AG5/Data/1377987 on m3
+18-05-2022 18:06 Error open path AG5/Data/1421225 on m3
+20-05-2022 11:15 Error open path AG5/Data/1324252 on m3
+20-05-2022 12:52 Error open path AG5/Data/1291357 on m3
+20-05-2022 13:35 Error open path AG5/Data/0117188 on m3
+20-05-2022 13:36 Error open path AG5/Data/0117188 on m3
+20-05-2022 13:40 Error open path AG5/Data/0117188 on m3
+20-05-2022 13:48 Error open path AG5/Data/1281561 on m3
+20-05-2022 13:52 Error open path AG5/Data/0117188 on m3
+20-05-2022 13:52 Error open path AG5/Data/0117188 on m3
+20-05-2022 13:55 Error open path AG5/Data/0117188 on m3
+20-05-2022 14:01 Error open path AG5/Data/0117188 on m3
+20-05-2022 14:18 Error open path AG5/Data/0117188 on m3
+20-05-2022 16:12 Error open path AG5/Data/1325778 on m3
+20-05-2022 16:43 Error open path AG5/Data/1324428 on m3
+20-05-2022 16:58 Error open path AG5/Data/1324428 on m3
+24-05-2022 10:47 Error open path AG5/Data/1324422 on m3
+25-05-2022 18:28 Error open path AG5/Data/0101775 on m3
+31-05-2022 11:09 Error open path Data/2129751 on m1
+31-05-2022 11:09 Error open path Data/2129751 on m1
+31-05-2022 11:09 Error open path Data/2129751 on m1
+31-05-2022 11:10 Error open path Data/2129751 on m1
+31-05-2022 11:10 Error open path Data/2129751 on m1
+31-05-2022 11:10 Error open path Data/2129751 on m1
+31-05-2022 11:10 Error open path Data/2129751 on m1
+31-05-2022 11:11 Error open path Data/2129751 on m1
+31-05-2022 11:11 Error open path Data/2129751 on m1
+31-05-2022 11:15 Error open path Data/2129751 on m1
+31-05-2022 11:15 Error open path Data/2129751 on m1
+31-05-2022 11:15 Error open path Data/2129751 on m1
+31-05-2022 11:19 Error open path Data/2129751 on m1
+31-05-2022 11:19 Error open path Data/2129751 on m1
+02-06-2022 11:48 Error open path AG5/Data/0242699 on m3
+02-06-2022 11:48 Error open path Data/0242699 on m1
+03-06-2022 12:35 Error open path AG5/Data/1480654 on m3
+03-06-2022 12:35 Error open path Data/1480654 on m1
+08-06-2022 10:34 Error open path AG5/Data/2223459 on m3
+08-06-2022 10:34 Error open path Data/2223459 on m1
+08-06-2022 10:34 Error open path AG5/Data/2223459 on m3
+08-06-2022 10:34 Error open path Data/2223459 on m1
+08-06-2022 10:34 Error open path AG5/Data/2223459 on m3
+08-06-2022 10:34 Error open path Data/2223459 on m1
+08-06-2022 10:34 Error open path AG5/Data/2223459 on m3
+08-06-2022 10:34 Error open path Data/2223459 on m1
+08-06-2022 10:34 Error open path AG5/Data/2223459 on m3
+08-06-2022 10:34 Error open path Data/2223459 on m1
+08-06-2022 10:34 Error open path AG5/Data/2223459 on m3
+08-06-2022 10:34 Error open path Data/2223459 on m1
+08-06-2022 10:34 Error open path AG5/Data/2223459 on m3
+08-06-2022 10:34 Error open path Data/2223459 on m1
+08-06-2022 10:34 Error open path AG5/Data/2223459 on m3
+08-06-2022 10:34 Error open path Data/2223459 on m1
+08-06-2022 10:34 Error open path AG5/Data/2223459 on m3
+08-06-2022 10:34 Error open path Data/2223459 on m1
+08-06-2022 10:34 Error open path AG5/Data/2223459 on m3
+08-06-2022 10:34 Error open path Data/2223459 on m1
+08-06-2022 10:34 Error open path AG5/Data/2223459 on m3
+08-06-2022 10:34 Error open path Data/2223459 on m1
+08-06-2022 12:24 Error open path AG5/Data/2223459 on m3
+08-06-2022 12:24 Error open path Data/2223459 on m1
+09-06-2022 17:39 Error open path Data/2154730 on m1
+14-06-2022 10:51 Error open path AG5/Data/2210896 on m3
+14-06-2022 10:51 Error open path Data/2210896 on m1
+14-06-2022 10:59 Error open path AG5/Data/1281442 on m3
+14-06-2022 13:23 Error open path Data/2152487 on m1
+15-06-2022 16:19 Error open path AG5/Data/0207564 on m3
+15-06-2022 17:55 Error open path Data/2210896 on m1
+15-06-2022 18:09 Error connect to ftp 89.188.109.102
+15-06-2022 18:12 Error connect to ftp 89.188.109.102
+15-06-2022 18:25 Error connect to ftp 89.188.109.102
+15-06-2022 18:39 Error connect to ftp 89.188.109.102
+16-06-2022 14:34 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:34 Error open path Data/0255447 on m1
+16-06-2022 14:36 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:36 Error open path Data/0255447 on m1
+16-06-2022 14:36 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:36 Error open path Data/0255447 on m1
+16-06-2022 14:38 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:38 Error open path Data/0255447 on m1
+16-06-2022 14:38 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:38 Error open path Data/0255447 on m1
+16-06-2022 14:38 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:38 Error open path Data/0255447 on m1
+16-06-2022 14:38 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:38 Error open path Data/0255447 on m1
+16-06-2022 14:38 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:38 Error open path Data/0255447 on m1
+16-06-2022 14:38 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:38 Error open path Data/0255447 on m1
+16-06-2022 14:39 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:39 Error open path Data/0255447 on m1
+16-06-2022 14:39 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:39 Error open path Data/0255447 on m1
+16-06-2022 14:39 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:39 Error open path Data/0255447 on m1
+16-06-2022 14:40 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:40 Error open path Data/0255447 on m1
+16-06-2022 14:44 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:44 Error open path Data/0255447 on m1
+16-06-2022 14:48 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:48 Error open path Data/0255447 on m1
+16-06-2022 14:48 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:48 Error open path Data/0255447 on m1
+16-06-2022 14:49 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:49 Error open path Data/0255447 on m1
+16-06-2022 14:49 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:49 Error open path Data/0255447 on m1
+16-06-2022 14:50 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:50 Error open path Data/0255447 on m1
+16-06-2022 14:50 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:50 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 14:59 Error open path AG5/Data/0255447 on m3
+16-06-2022 14:59 Error open path Data/0255447 on m1
+16-06-2022 15:00 Error open path AG5/Data/0255447 on m3
+16-06-2022 15:00 Error open path Data/0255447 on m1
+16-06-2022 15:00 Error open path AG5/Data/0255447 on m3
+16-06-2022 15:00 Error open path Data/0255447 on m1
+16-06-2022 15:00 Error open path AG5/Data/0255447 on m3
+16-06-2022 15:00 Error open path Data/0255447 on m1
+16-06-2022 15:00 Error open path AG5/Data/0255447 on m3
+16-06-2022 15:00 Error open path Data/0255447 on m1
+16-06-2022 15:00 Error open path AG5/Data/0255447 on m3
+16-06-2022 15:00 Error open path Data/0255447 on m1
+16-06-2022 15:00 Error open path AG5/Data/0255447 on m3
+16-06-2022 15:00 Error open path Data/0255447 on m1
+16-06-2022 15:00 Error open path AG5/Data/0255447 on m3
+16-06-2022 15:00 Error open path Data/0255447 on m1
+16-06-2022 15:00 Error open path AG5/Data/0255447 on m3
+16-06-2022 15:00 Error open path Data/0255447 on m1
+16-06-2022 15:00 Error open path AG5/Data/0255447 on m3
+16-06-2022 15:00 Error open path Data/0255447 on m1
+16-06-2022 15:00 Error open path AG5/Data/0255447 on m3
+16-06-2022 15:00 Error open path Data/0255447 on m1
+16-06-2022 15:01 Error open path AG5/Data/0255447 on m3
+16-06-2022 15:01 Error open path Data/0255447 on m1
+16-06-2022 15:02 Error open path Data/0255477 on m1
+16-06-2022 15:58 Error open path Data/0200070 on m1
+17-06-2022 10:38 Error open path AG5/Data/0475416 on m3
+17-06-2022 10:38 Error open path Data/0475416 on m1
+17-06-2022 10:40 Error open path AG5/Data/0475416 on m3
+17-06-2022 10:40 Error open path Data/0475416 on m1
+17-06-2022 10:41 Error open path AG5/Data/0475416 on m3
+17-06-2022 10:41 Error open path Data/0475416 on m1
+17-06-2022 10:49 Error open path AG5/Data/0475416 on m3
+17-06-2022 10:49 Error open path Data/0475416 on m1
+17-06-2022 10:50 Error open path AG5/Data/0475416 on m3
+17-06-2022 10:50 Error open path Data/0475416 on m1
+17-06-2022 13:55 Error open path Data/0475416 on m1
+17-06-2022 16:49 Error open path AG5/Data/1448388 on m3
+17-06-2022 16:59 Error open path AG5/Data/1448388 on m3
+17-06-2022 16:59 Error open path AG5/Data/1448388 on m3
+17-06-2022 17:04 Error open path AG5/Data/1448388 on m3
+17-06-2022 17:05 Error open path AG5/Data/1448388 on m3
+17-06-2022 17:06 Error open path AG5/Data/1448388 on m3
+17-06-2022 17:06 Error open path AG5/Data/1448388 on m3
+17-06-2022 17:06 Error open path AG5/Data/1448388 on m3
+19-06-2022 23:04 Error connect to ftp 89.188.109.102
+19-06-2022 23:05 Error connect to ftp 89.188.109.102
+19-06-2022 23:07 Error connect to ftp 89.188.109.102
+19-06-2022 23:09 Error connect to ftp 89.188.109.102
+19-06-2022 23:28 Error open path AG5/Data/1448388 on m3
+19-06-2022 23:29 Error open path Data/0475416 on m1
+19-06-2022 23:32 Error open path Data/0475416 on m1
+21-06-2022 13:38 Error open path AG5/Data/1438478 on m3
+21-06-2022 13:38 Error open path Data/1438478 on m1
+21-06-2022 13:41 Error open path AG5/Data/1438478 on m3
+21-06-2022 13:41 Error open path Data/1438478 on m1
+21-06-2022 13:42 Error open path AG5/Data/1438478 on m3
+21-06-2022 13:42 Error open path Data/1438478 on m1
+21-06-2022 13:42 Error open path AG5/Data/1438478 on m3
+21-06-2022 13:42 Error open path Data/1438478 on m1
+21-06-2022 13:42 Error open path AG5/Data/1438478 on m3
+21-06-2022 13:42 Error open path Data/1438478 on m1
+21-06-2022 13:42 Error open path AG5/Data/1438478 on m3
+21-06-2022 13:42 Error open path Data/1438478 on m1
+21-06-2022 13:43 Error open path AG5/Data/1438478 on m3
+21-06-2022 13:43 Error open path Data/1438478 on m1
+21-06-2022 13:43 Error open path AG5/Data/1438478 on m3
+21-06-2022 13:43 Error open path Data/1438478 on m1
+21-06-2022 13:48 Error open path Data/1438478 on m1
+21-06-2022 14:48 Error open path Data/1390819 on m1
+21-06-2022 16:49 Error open path AG5/Data/1480656 on m3
+21-06-2022 16:49 Error open path Data/1480656 on m1
+21-06-2022 17:08 Error open path Data/0149601 on m1
+21-06-2022 17:08 Error open path AG5/Data/0044289 on m3
+21-06-2022 17:08 Error open path Data/0044289 on m1
+21-06-2022 17:11 Error open path AG5/Data/0052362 on m3
+21-06-2022 17:11 Error open path Data/0052362 on m1
+22-06-2022 17:14 Error open path AG5/Data/2223454 on m3
+22-06-2022 17:14 Error open path Data/2223454 on m1
+22-06-2022 17:15 Error open path AG5/Data/2223454 on m3
+22-06-2022 17:15 Error open path Data/2223454 on m1
+22-06-2022 17:15 Error open path Data/2223454 on m1
+24-06-2022 11:06 Error open path Data/2224033 on m1
+11-07-2022 18:43 Error open path Data/0207250 on m1
+12-07-2022 17:54 Error open path AG5/Data/0208795 on m3
+12-07-2022 17:54 Error open path Data/0208795 on m1
+12-07-2022 18:30 Error open path AG5/Data/0208795 on m3
+12-07-2022 18:30 Error open path Data/0208795 on m1
+18-07-2022 15:46 Error open path AG5/Data/2222784 on m3
+18-07-2022 15:46 Error open path Data/2222784 on m1
+18-07-2022 16:37 Error open path AG5/Data/2222784 on m3
+18-07-2022 16:37 Error open path Data/2222784 on m1
+19-07-2022 07:49 Error open path Data/2222784 on m1
+19-07-2022 16:22 Error open path Data/2802092 on m1
+19-07-2022 16:37 Error open path Data/0301741 on m1
+22-07-2022 11:16 Error open path Data/2802113 on m1
+22-07-2022 15:29 Error open path Data/2154745 on m1
+25-07-2022 12:38 Error open path Data/2802092 on m1
+25-07-2022 12:38 Error open path Data/2802092 on m1
+25-07-2022 12:39 Error open path Data/2802092 on m1
+25-07-2022 12:39 Error open path Data/2802092 on m1
+25-07-2022 12:39 Error open path Data/2802092 on m1
+25-07-2022 12:39 Error open path Data/2802092 on m1
+25-07-2022 12:39 Error open path Data/2802092 on m1
+25-07-2022 12:39 Error open path Data/2802092 on m1
+25-07-2022 12:39 Error open path Data/2802092 on m1
+25-07-2022 12:39 Error open path Data/2802092 on m1
+25-07-2022 12:39 Error open path Data/2802092 on m1
+25-07-2022 12:40 Error open path Data/2802092 on m1
+25-07-2022 12:40 Error open path Data/2802092 on m1
+25-07-2022 12:40 Error open path Data/2802092 on m1
+25-07-2022 12:40 Error open path Data/2802092 on m1
+25-07-2022 12:40 Error open path Data/2802092 on m1
+25-07-2022 12:40 Error open path Data/2802092 on m1
+25-07-2022 12:40 Error open path Data/2802092 on m1
+25-07-2022 12:40 Error open path Data/2802092 on m1
+25-07-2022 12:40 Error open path Data/2802092 on m1
+25-07-2022 12:40 Error open path Data/2802092 on m1
+25-07-2022 12:40 Error open path Data/2802092 on m1
+25-07-2022 12:41 Error open path Data/2802092 on m1
+25-07-2022 12:41 Error open path Data/2802092 on m1
+25-07-2022 12:41 Error open path Data/2802092 on m1
+25-07-2022 12:41 Error open path Data/2802092 on m1
+25-07-2022 12:41 Error open path Data/2802092 on m1
+25-07-2022 12:41 Error open path Data/2802092 on m1
+25-07-2022 12:41 Error open path Data/2802092 on m1
+25-07-2022 12:41 Error open path Data/2802092 on m1
+25-07-2022 12:41 Error open path Data/2802092 on m1
+25-07-2022 12:42 Error open path Data/2802092 on m1
+25-07-2022 12:42 Error open path Data/2802092 on m1
+25-07-2022 12:51 Error open path Data/2802092 on m1
+25-07-2022 12:52 Error open path Data/2802092 on m1
+26-07-2022 14:14 Error open path Data/2802092 on m1
+26-07-2022 14:14 Error open path Data/2802092 on m1
+26-07-2022 14:16 Error open path Data/2802092 on m1
+26-07-2022 14:16 Error open path Data/2802092 on m1
+26-07-2022 14:17 Error open path Data/2802092 on m1
+26-07-2022 14:36 Error open path AG5/Data/2222783 on m3
+26-07-2022 14:36 Error open path Data/2222783 on m1
+26-07-2022 14:36 Error open path Data/2802092 on m1
+26-07-2022 14:37 Error open path AG5/Data/2222783 on m3
+26-07-2022 14:37 Error open path Data/2222783 on m1
+26-07-2022 14:37 Error open path AG5/Data/2222783 on m3
+26-07-2022 14:37 Error open path Data/2222783 on m1
+26-07-2022 14:37 Error open path AG5/Data/2222783 on m3
+26-07-2022 14:37 Error open path Data/2222783 on m1
+26-07-2022 14:37 Error open path AG5/Data/2222783 on m3
+26-07-2022 14:37 Error open path Data/2222783 on m1
+26-07-2022 14:37 Error open path AG5/Data/2222783 on m3
+26-07-2022 14:37 Error open path Data/2222783 on m1
+26-07-2022 14:37 Error open path AG5/Data/2222783 on m3
+26-07-2022 14:37 Error open path Data/2222783 on m1
+26-07-2022 14:37 Error open path AG5/Data/2222783 on m3
+26-07-2022 14:37 Error open path Data/2222783 on m1
+26-07-2022 14:37 Error open path AG5/Data/2222783 on m3
+26-07-2022 14:37 Error open path Data/2222783 on m1
+26-07-2022 14:39 Error open path AG5/Data/2222783 on m3
+26-07-2022 14:39 Error open path Data/2222783 on m1
+26-07-2022 14:43 Error open path AG5/Data/2222783 on m3
+26-07-2022 14:43 Error open path Data/2222783 on m1
+26-07-2022 14:43 Error open path AG5/Data/2222783 on m3
+26-07-2022 14:43 Error open path Data/2222783 on m1
+26-07-2022 16:23 Error open path Data/2802092 on m1
+26-07-2022 16:32 Error open path Data/2802092 on m1
+26-07-2022 16:33 Error open path Data/2802092 on m1
+26-07-2022 16:45 Error open path Data/2802092 on m1
+26-07-2022 16:45 Error open path Data/2802092 on m1
+26-07-2022 16:45 Error open path Data/2802092 on m1
+26-07-2022 16:45 Error open path Data/2802092 on m1
+26-07-2022 16:56 Error open path Data/2802092 on m1
+26-07-2022 16:56 Error open path Data/2802092 on m1
+26-07-2022 16:56 Error open path Data/2802092 on m1
+26-07-2022 16:58 Error open path Data/2802092 on m1
+26-07-2022 17:05 Error open path Data/2802092 on m1
+26-07-2022 17:07 Error open path AG5/Data/2802112 on m3
+26-07-2022 17:07 Error open path Data/2802112 on m1
+26-07-2022 17:07 Error open path Data/2802092 on m1
+26-07-2022 17:15 Error open path Data/2802092 on m1
+26-07-2022 17:55 Error open path Data/2802092 on m1
+27-07-2022 10:31 Error open path Data/2802092 on m1
+28-07-2022 15:12 Error open path Data/2224046 on m1
+29-07-2022 16:50 Error open path Data/2154745 on m1
+29-07-2022 16:50 Error open path Data/2154745 on m1
+29-07-2022 16:58 Error open path Data/2154745 on m1
+04-08-2022 15:51 Error open path Data/2224032 on m1
+04-08-2022 15:56 Error open path Data/2224032 on m1
+04-08-2022 16:16 Error open path AG5/Data/2153847 on m3
+04-08-2022 16:16 Error open path Data/2153847 on m1
+04-08-2022 16:52 Error open path AG5/Data/0078760 on m3
+04-08-2022 16:52 Error open path Data/0078760 on m1
+04-08-2022 17:00 Error open path AG5/Data/2153728 on m3
+04-08-2022 17:00 Error open path Data/2153728 on m1
+05-08-2022 15:48 Error open path Data/2154742 on m1
+05-08-2022 15:49 Error open path Data/2154742 on m1
+10-08-2022 16:07 Error open path Data/9059541 on m1
+10-08-2022 16:48 Error open path Data/9059541 on m1
+10-08-2022 17:00 Error open path Data/9059541 on m1
+10-08-2022 17:50 Error open path Data/9059541 on m1
+11-08-2022 16:14 Error open path AG5/Data/2130984 on m3
+11-08-2022 16:14 Error open path Data/2130984 on m1
+12-08-2022 11:23 Error open path Data/9050675 on m1
+15-08-2022 14:40 Error open path Data/2222154 on m1
+15-08-2022 14:40 Error open path Data/2213663 on m1
+15-08-2022 14:41 Error open path AG5/Data/2223953 on m3
+15-08-2022 14:41 Error open path Data/2223953 on m1
+15-08-2022 14:45 Error open path AG5/Data/2222953 on m3
+15-08-2022 14:45 Error open path Data/2222953 on m1
+15-08-2022 14:48 Error open path Data/2223539 on m1
+15-08-2022 14:58 Error open path AG5/Data/2223953 on m3
+15-08-2022 14:58 Error open path Data/2223953 on m1
+15-08-2022 18:16 Error open path Data/2219719 on m1
+18-08-2022 23:39 Error open path AG5/Data/0000000 on m3
+18-08-2022 23:40 Error open path AG5/Data/1234567 on m3
+18-08-2022 23:40 Error open path Data/1234567 on m1
+19-08-2022 11:27 Error open path Data/2402195 on m1
+26-08-2022 12:30 Error open path Data/5153952 on m1
+29-08-2022 17:51 Error open path Data/2213663 on m1
+30-08-2022 15:35 Error open path Data/2154727 on m1
+30-08-2022 15:41 Error open path Data/2154727 on m1
+02-09-2022 10:36 Error open path AG5/Data/2223251 on m3
+02-09-2022 10:36 Error open path Data/2223251 on m1
+02-09-2022 10:39 Error open path Data/2223951 on m1
+02-09-2022 19:12 Error open path AG5/Data/2153777 on m3
+02-09-2022 19:12 Error open path Data/2153777 on m1
+05-09-2022 14:05 Error open path AG5/Data/2153777 on m3
+05-09-2022 14:05 Error open path Data/2153777 on m1
+05-09-2022 14:13 Error open path Data/2153777 on m1
+06-09-2022 15:14 Error open path Data/0307241 on m1
+09-09-2022 16:22 Error open path Data/2222217 on m1
+13-09-2022 12:28 Error open path Data/2223951 on m1
+13-09-2022 14:57 Error open path AG5/Data/0268870 on m3
+16-09-2022 14:03 Error open path Data/2153787 on m1
+16-09-2022 16:48 Error open path Data/0301741 on m1
+19-09-2022 16:56 Error open path AG5/Data/0204511 on m3
+19-09-2022 16:56 Error open path Data/0204511 on m1
+20-09-2022 17:43 Error open path AG5/Data/0204511 on m3
+20-09-2022 17:43 Error open path Data/0204511 on m1
+20-09-2022 18:36 Error open path AG5/Data/1234567 on m3
+20-09-2022 18:36 Error open path Data/1234567 on m1
