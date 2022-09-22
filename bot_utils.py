@@ -111,7 +111,7 @@ def add_to_atg(update, context):
     now = datetime.now()
     locale.setlocale(locale.LC_ALL, '')
     file_atg = ['AutoGRAPH database 1.3\n', str(count), ' records\n']
-    path  = 'H:\Public\ОБМЕН\Чужие блоки\\' + now.strftime("%m. %B\\")
+    path  = cf.path_predator + now.strftime("%m. %B\\")
     if not os.path.isdir(path):
         os.mkdir(path)
     if len(text) == 4:
