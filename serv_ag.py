@@ -122,7 +122,7 @@ def check_data_on_server(serv:str, number) ->str:
 def connect_to_db(db_name:str):
     try:
         connection = connect(host=cf.SQL_SERVER, 
-                    port='3316', 
+                    port=cf.SQL_PORT, 
                     user=cf.SQL_LOGIN, 
                     password=cf.SQL_PASS,
                     database=db_name,)
